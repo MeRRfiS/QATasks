@@ -1,0 +1,15 @@
+D:\My Laboratory Work\QA\QA\bin\Debug\netcoreapp3.1\QA.exe
+D:\My Laboratory Work\QA\QA\obj\Debug\netcoreapp3.1\QA.csprojAssemblyReference.cache
+D:\My Laboratory Work\QA\QA\obj\Debug\netcoreapp3.1\QA.AssemblyInfoInputs.cache
+D:\My Laboratory Work\QA\QA\obj\Debug\netcoreapp3.1\QA.AssemblyInfo.cs
+D:\My Laboratory Work\QA\QA\bin\Debug\netcoreapp3.1\QA.deps.json
+D:\My Laboratory Work\QA\QA\bin\Debug\netcoreapp3.1\QA.runtimeconfig.json
+D:\My Laboratory Work\QA\QA\bin\Debug\netcoreapp3.1\QA.runtimeconfig.dev.json
+D:\My Laboratory Work\QA\QA\bin\Debug\netcoreapp3.1\QA.dll
+D:\My Laboratory Work\QA\QA\bin\Debug\netcoreapp3.1\QA.pdb
+D:\My Laboratory Work\QA\QA\bin\Debug\netcoreapp3.1\nunit.framework.dll
+D:\My Laboratory Work\QA\QA\obj\Debug\netcoreapp3.1\QA.csproj.CoreCompileInputs.cache
+D:\My Laboratory Work\QA\QA\obj\Debug\netcoreapp3.1\QA.csproj.CopyComplete
+D:\My Laboratory Work\QA\QA\obj\Debug\netcoreapp3.1\QA.dll
+D:\My Laboratory Work\QA\QA\obj\Debug\netcoreapp3.1\QA.pdb
+D:\My Laboratory Work\QA\QA\obj\Debug\netcoreapp3.1\QA.genruntimeconfig.cache
